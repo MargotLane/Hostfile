@@ -3,3 +3,4 @@
 0.0.0.0 rapey.org
 0.0.0.0 looksmax.me
 0.0.0.0 neets.me
+0.0.0.0 gab.com
